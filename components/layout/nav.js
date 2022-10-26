@@ -11,7 +11,7 @@ export default {
 			<div class="row">
 				<div class="col-md-3">
 					<div class="logo">
-						<a href="index.html"><img src="img/logo/logo.png" alt="eduhome" /></a>
+						<a href="index.html"><img src="img/logo/logo.png" alt="destiny" /></a>
 					</div>
 				</div>
 				<div class="col-md-9">
