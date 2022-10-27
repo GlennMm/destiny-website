@@ -6,7 +6,7 @@ export default {
                     <div class="col-lg-8 offset-lg-2">
                         <div class="subscribe-content section-title text-center">
                             <h2>subscribe our newsletter</h2>
-                            <p>I must explain to you how all this mistaken idea </p>
+                            <p>Sign up for newsletter. You will get update on talent shows, sports, scripture union club, principal's desk, etc</p>
                         </div>
                         <div class="newsletter-form mc_embed_signup">
                             <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -28,7 +28,7 @@ export default {
 					<div class="col-lg-4 col-md-6">
 						<div class="single-widget pr-60">
 							<div class="footer-logo pb-25">
-								<a href="index.html"><img src="img/logo/footer-logo.png" alt="destiny"></a>
+								<a href="index.html"><img src="img/logo/logo.png" style="height: 75px; aspect-ratio: 1;" alt="destiny"></a>
 							</div>
 							<p>Destiny Achievers Group of schools is a privately-owned group of schools that constitute of day and boarding schools. The group of schools was founded in 2018 as a private educational institution. Located on the urban fringes of Harare metropolitan city, Destiny Achievers Group of Schools is administratively located in Goromonzi District under Mashonaland East  Province</p>
 							<div class="footer-social">
@@ -43,13 +43,13 @@ export default {
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="single-widget">
-							<h3>navigation</h3>
+							<h3>information</h3>
 							<ul>
-								<li><a href="#">home</a></li>
-								<li><a href="#">Academic Calender</a></li>
-								<li><a href="event.html">Event List</a></li>
-								<li><a href="#">Hostel &amp; Dinning</a></li>
-								<li><a href="#">TimeTable</a></li>
+								<li><a href="/index.html">home</a></li>
+								<li><a href="/about.html">aboout us</a></li>
+								<li><a href="/newsletter.html">newsletter</a></li>
+								<li><a href="/contact.html">contact</a></li>
+								<li><a href="/course.html">fees</a></li>
 							</ul>
 						</div>
 					</div>
@@ -57,10 +57,10 @@ export default {
 						<div class="single-widget">
 							<h3>useful links</h3>
 							<ul>
-							<li><a href="/index.html">home</a></li>
+							<li><a href="/.html">home</a></li>
 							<li><a href="/about.html">about us</a></li>
 							<li><a href="/contact.html">contact</a></li>
-							<li><a href="/blog.html">school magazine</a></li>
+							<li><a href="/magazine.html">school magazine</a></li>
 							<li><a href="/course.html">fees</a></li>
 							</ul>
 						</div>

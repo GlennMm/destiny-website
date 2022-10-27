@@ -22,9 +22,9 @@ export default {
 								<ul>
 									<li><a href="/index.html">Home</a></li>
 									<li><a href="/about.html">About Us</a></li>
-									<li><a href="/event.html">Newsletter</a></li>
-									<li><a href="/teacher.html">School Magazine</a></li>
-									<li><a href="/blog.html">Fees</a></li>
+									<li><a href="/newsletter.html">Newsletter</a></li>
+									<li><a href="/magazine.html">School Magazine</a></li>
+									<li><a href="/fees.html">Fees</a></li>
 									<li><a href="/contact.html">Contact</a></li>
 									<!-- <li><a href="course.html">courses</a>
 										<ul>
