@@ -46,7 +46,7 @@ export default {
 							<h3>information</h3>
 							<ul>
 								<li><a href="/index.html">home</a></li>
-								<li><a href="/about.html">aboout us</a></li>
+								<li><a href="/about.html">about us</a></li>
 								<li><a href="/newsletter.html">newsletter</a></li>
 								<li><a href="/contact.html">contact</a></li>
 								<li><a href="/course.html">fees</a></li>
