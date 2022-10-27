@@ -57,7 +57,7 @@ export default {
 						<div class="single-widget">
 							<h3>useful links</h3>
 							<ul>
-							<li><a href="/.html">home</a></li>
+							<li><a href="/index.html">home</a></li>
 							<li><a href="/about.html">about us</a></li>
 							<li><a href="/contact.html">contact</a></li>
 							<li><a href="/magazine.html">school magazine</a></li>
