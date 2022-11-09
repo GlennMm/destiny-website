@@ -165,8 +165,9 @@ textarea {
     transition: all 0.5s ease-out 0s;
 }
 .banner-area {
-  background: rgba(0, 0, 0, 0) url("../img/banner/banner.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("/assets/POWERPOINT PICS/IMG_4002.JPG") no-repeat scroll center center / cover ;
   position: relative;
+	background-position: top;
   width: 100%;
   z-index: 1;
 }
@@ -1285,11 +1286,13 @@ textarea {
     position: absolute;
     right: 130px;
     bottom: 0;
-    width: 293px;
+    width: 350px;
     height: 506px;
     content: "";
-    background: url(../img/choose/choose.png);
+    background: url('/assets/science%20club/IMG_9236.JPG');
     background-repeat: no-repeat;
+		background-position: center;
+		background-size: contain;
     z-index: 1;
 }
 .choose-content{
